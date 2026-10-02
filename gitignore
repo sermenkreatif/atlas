@@ -1,0 +1,19 @@
+# --- ASLA yuklenmeyecek: gizli ve kisisel ---
+atlas.env
+atlas_ayar.json
+atlas_maliyet.json
+atlas_hata.log
+
+# --- calisma sirasinda olusan klasorler ---
+atlas_gunluk/
+atlas_gecici/
+atlas_cop/
+atlas_yedek/
+atlas_calisma/
+atlas_pencere/
+__pycache__/
+*.pyc
+
+# --- ornek/gecici dosyalar ---
+onizleme.html
+ekran*.png
