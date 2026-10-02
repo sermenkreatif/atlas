@@ -4,6 +4,11 @@ atlas_ayar.json
 atlas_maliyet.json
 atlas_hata.log
 
+# --- kisisel veri: ASLA depoya gitmez ---
+atlas_yuzler/
+atlas_oda/
+atlas_test_gecici/
+
 # --- calisma sirasinda olusan klasorler ---
 atlas_gunluk/
 atlas_gecici/
